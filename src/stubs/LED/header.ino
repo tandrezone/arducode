@@ -1,0 +1,1 @@
+int % PIN_NAME % = % PIN_PORT % ;

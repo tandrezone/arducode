@@ -1,0 +1,1 @@
+pinMode(% PIN_NAME %, % PIN_MODE %);

@@ -1,0 +1,15 @@
+{
+    "name": "tandre/arducode",
+    "autoload": {
+        "psr-4": {
+            "Tandre\\Arducode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago Andre",
+            "email": "tiago.andre@javra.com"
+        }
+    ],
+    "require": {}
+}
